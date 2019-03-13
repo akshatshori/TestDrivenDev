@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.maven.kamal.TestPrimeNo
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.046 s <<< FAILURE! - in com.maven.kamal.TestPrimeNo
+testPrimeNo(com.maven.kamal.TestPrimeNo)  Time elapsed: 0.015 s  <<< FAILURE!
+java.lang.AssertionError: expected:<true> but was:<false>
+	at com.maven.kamal.TestPrimeNo.testPrimeNo(TestPrimeNo.java:13)
+
