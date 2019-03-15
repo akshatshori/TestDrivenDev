@@ -10,7 +10,7 @@ public class PrimeNo {
 	  if(n==0||n==1){  
 	  
 		flag =false; 		// not prime number
-		  
+		  //1st change here
 	  }
 	  
 	  else{  
