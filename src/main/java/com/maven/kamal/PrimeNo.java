@@ -11,6 +11,7 @@ public class PrimeNo {
 	  
 		flag =false; 		// not prime number
 		  //change here
+          //3rd change here
 	  }
 	  
 	  else{  
