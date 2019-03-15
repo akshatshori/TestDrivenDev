@@ -1,7 +1,7 @@
 package com.maven.kamal;
 
 public class PrimeNo {
-	
+	//changes made
 	public static boolean checkPrime(int n) { 
 	int i,m=0; //,flag=0;  //flag = 0 means by default its prime    
 	boolean flag = true;
