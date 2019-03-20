@@ -29,4 +29,13 @@ public class TestPrimeNo {
 		assertEquals(true, PrimeNo.checkEven(10));
 	
 	}
+	// testing for odd numbers
+	@Test
+	public void testEven()
+	{
+		assertEquals(true, PrimeNo.checkEven(9));
+	}
+    
+    
+   
 }
